@@ -1,0 +1,4 @@
+github.com/docker/docker v1.2.1-0.20140822171633-6bc773b2c1cb h1:LnLHO0ZRU1WjfzP65ntpyhRHZKoqsnTZA3RfK/qHhHM=
+github.com/docker/docker v1.2.1-0.20140822171633-6bc773b2c1cb/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
+github.com/fsouza/go-dockerclient v0.0.0-20140814020613-adb861704259 h1:wIlvoJds8aPN9mjiGBji+vCx/gDb6jfNBoH1TDjNDeQ=
+github.com/fsouza/go-dockerclient v0.0.0-20140814020613-adb861704259/go.mod h1:KpcjM623fQYE9MZiTGzKhjfxXAV9wbyX2C1cyRHfhl0=
